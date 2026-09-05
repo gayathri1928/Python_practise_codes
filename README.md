@@ -5,7 +5,6 @@ This repository contains my Python practice programs and concepts, starting from
 ## 📚 Topics Covered
 
 - Input and Output Devices
-- Installation
 - Syntax
 - Comments
 - Variables
