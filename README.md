@@ -21,6 +21,10 @@ This repository contains my Python practice programs and concepts, starting from
 - Type Casting
 - Strings
 - Operators
+- Random
+- Escape Sequence
+- Control Statements
+- Conditional Statements
 
 ## 🎯 Objective
 
